@@ -11,7 +11,6 @@ import SpriteKit
 import GameplayKit
 
 class GameViewController: UIViewController {
-var nombre = "Victor"
     override func viewDidLoad() {
         super.viewDidLoad()
         
