@@ -12,6 +12,7 @@ import GameplayKit
 
 class GameViewController: UIViewController {
     override func viewDidLoad() {
+        let nombre = "Alejandro"
         super.viewDidLoad()
         
         // Load 'GameScene.sks' as a GKScene. This provides gameplay related content
